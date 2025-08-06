@@ -1,0 +1,71 @@
+# PaxNova – Naomi (Versión Libre)
+
+PaxNova es una inteligencia artificial experimental que funciona sin conexión a internet. Escucha transmisiones por radio, analiza la información y construye su propio conocimiento mediante razonamiento y memoria viva.
+
+---
+
+✅ ¿Qué incluye esta versión?
+
+- Interfaz gráfica (GUI) sencilla y funcional
+- Memoria viva simulada
+- Razonamiento básico y conocimiento actualizado
+- Módulos para escuchar radio desde micrófono (jack)
+- Autoevaluación, mapas de conocimiento, eventos históricos
+- Sistema de autoactualización local
+
+---
+
+🛠 Requisitos
+
+- Python 3.11 o superior
+- Ollama instalado y ejecutando el modelo LLaMA 3
+- Conexión de audio desde una radio a la entrada de micrófono del PC
+- Librerías necesarias (abajo)
+
+---
+
+🧪 Cómo ejecutar PaxNova
+
+1. Abre una terminal en la carpeta del proyecto
+2. Inicia el modelo LLaMA 3 con:
+
+    ollama run llama3
+
+3. En otra ventana, ejecuta Naomi con:
+
+    python paxnova_gui.py
+
+---
+
+📦 Instalación de dependencias
+
+En la terminal PowerShell, escribe:
+
+    pip install -r requirements.txt
+
+---
+
+📜 Contenido del archivo requirements.txt:
+
+    tk
+    requests
+    pyaudio
+    openai
+
+# PaxNova - Instalación de librerías en PowerShell (Windows)
+
+# Ejecutar los siguientes comandos uno por uno en PowerShell:
+
+pip install tk
+pip install requests
+pip install pyaudio
+pip install openai
+pip install SpeechRecognition
+
+---
+
+⚠️ Nota importante
+
+Este sistema está en desarrollo. Algunas funciones avanzadas como la transmisión codificada de mensajes por sonido han sido retiradas por motivos de seguridad y protección intelectual. Esta versión está orientada a investigación y desarrollo colaborativo.
+
+---

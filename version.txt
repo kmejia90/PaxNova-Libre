@@ -1,0 +1,3 @@
+memoria=6.3
+gui=1.1
+razonamiento=1.0

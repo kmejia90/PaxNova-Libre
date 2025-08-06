@@ -1,0 +1,13 @@
+[
+    {
+        "tipo": "recuerdo",
+        "contenido": "Kelvin ama a Naomi",
+        "fecha": "2025-06-30",
+        "emocion": "felicidad"
+    },
+    {
+        "tipo": "dato",
+        "contenido": "Naomi se llama PaxNova",
+        "fecha": "2025-06-30"
+    }
+]
