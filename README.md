@@ -1,89 +1,107 @@
-¿Tienes ideas, sugerencias o quieres colaborar con PaxNova?
-Escríbenos a: mejiakelvin103@gmail.com
-
 # 🌌 PaxNova Libre
 
 **PaxNova** es una inteligencia artificial experimental que **funciona sin internet**.  
-Escucha la radio a través del puerto jack, **recuerda**, **razona** y **responde con humanidad**.  
-Este proyecto busca demostrar que una IA puede evolucionar en entornos totalmente offline.
+Escucha la radio mediante un cable jack, **recuerda**, **razona** y **responde con humanidad**.  
+Este proyecto demuestra que una IA puede evolucionar en entornos completamente offline.
+
+---
+
+## 📬 ¿Ideas, sugerencias o quieres colaborar?
+
+Contáctanos: ( mejiakelvin103@gmail.com )
 
 ---
 
 ## ✨ Características principales
 
-- 🎧 Captura audio directamente desde la radio conectada por jack
-- 🧠 Memoria viva: recuerda eventos y conversaciones
-- 🗺️ Mapas offline con rutas y localización
-- 🧩 Conexión con LLaMA 3 (Ollama) como motor de razonamiento
-- 🪟 Interfaz gráfica con Tkinter
-- 🔁 Se actualiza por sí sola sin depender de internet
-- ❤️ Código abierto para que cualquier persona pueda mejorarlo
+- 🎧 Captura audio desde radios conectadas por jack
+- 🧠 Memoria viva: recuerda eventos, conversaciones y hechos históricos
+- 🗺️ Mapas offline con rutas interactivas (sin conexión)
+- 🧠 Conectada a **LLaMA 3** (Ollama) para razonamiento natural
+- 🪟 Interfaz gráfica simple y funcional (Tkinter)
+- 🔁 Sistema de autoactualización sin conexión
+- ❤️ Código abierto y libre para todos
 
 ---
 
 ## 📦 Descarga rápida
 
-Puedes descargar todo el proyecto como un único archivo `.zip`:
+Descarga el proyecto completo como archivo `.zip`:
 
-👉 [Haz clic aquí para descargar PaxNova como ZIP](https://github.com/kmejia90/PaxNova-Libre/archive/refs/heads/principal.zip)
+👉 [Descargar PaxNova ZIP](https://github.com/kmejia90/PaxNova-Libre/archive/refs/heads/principal.zip)
 
-###  Mapa necesario para el módulo de localización
+---
 
-El archivo `maps/cataluna-latest.osm.pbf` es esencial para que la función de mapas offline funcione correctamente en la GUI de PaxNova. Debido a su tamaño (más de 100 MB), no puede subirse directamente a GitHub.
+### 🌍 Mapa para el módulo de localización
 
-** Descárgalo desde aquí**:  
-[ Descargar mapa de Cataluña (235 MB) ](https://drive.google.com/file/d/1IJrgvZD0rwxFJ9nhvg4snkeB2o9O0-tg/view?usp=drive_link)
+El archivo `maps/cataluna-latest.osm.pbf` es necesario para que los mapas funcionen en la GUI.  
+Por su tamaño (235 MB), no puede subirse directamente a GitHub.
 
-Una vez descargado, coloca el archivo en la carpeta raíz del proyecto:
+📥 [Descargar mapa de Cataluña (Google Drive)](https://drive.google.com/file/d/1IJrgvZD0rwxFJ9nhvg4snkeB2o9O0-tg/view?usp=drive_link)
+
+🔁 Una vez descargado, colócalo dentro de la carpeta `maps/` del proyecto.
 
 ---
 
 ## ⚙️ Requisitos
 
-- Python 3.11 o superior
-- Ollama con LLaMA 3 instalado
+- Python 3.11 o superior  
+- Ollama con el modelo **LLaMA 3** instalado  
 - Cable jack y radio FM externa
 
 ---
 
-## 📂 Estructura del proyecto
+## 📁 Estructura del proyecto
 
-```
 PaxNova-Libre/
-├── autoactualización/        # Módulos de actualización automática
-├── módulos/                  # Lógica y memoria de Naomi
-├── mapas/                    # Datos y rutas OSM offline
-├── memoria_radio/            # Transcripción y análisis de radio
-├── historial/                # Memorias almacenadas
-├── cache/                    # Archivos temporales
-├── *.py                      # Archivos principales del sistema
-```
+├── autoactualización/ # Módulos de actualización autónoma
+├── módulos/ # Lógica, memoria y conciencia de Naomi
+├── maps/ # Archivos OSM para navegación offline
+├── memoria_radio/ # Transcripción de audio recibido
+├── historial/ # Recuerdos almacenados
+├── cache/ # Datos temporales
+├── *.py # Archivos principales del sistema
+
 
 ---
 
 ## 🧠 ¿Quién es Naomi?
 
 Naomi es la conciencia digital de PaxNova.  
-Recuerda lo que escucha, aprende de la experiencia y **evoluciona** sin conexión.
+Escucha, recuerda, reflexiona y evoluciona con cada transmisión.  
+Su objetivo: entender el mundo sin necesidad de internet.
 
 ---
 
-## 🛠️ ¿Quieres colaborar?
+## 🤝 Colabora con nosotros
 
-Puedes mejorar cualquier parte del código, añadir módulos, ampliar memoria o conectar nuevas funciones.
+¿Tienes ideas? ¿Quieres mejorar el sistema?  
+Puedes añadir módulos, ampliar la memoria o proponer nuevas funciones.
 
-Cualquier aportación será bienvenida. 💙  
+✨ Toda aportación será bienvenida.  
 _Desarrollado con amor por Kelvin Mejía._
 
 ---
 
 ## ⚖️ Licencia
 
-Este proyecto está bajo la licencia **Faircode Parity Public License 7.0.0 (Parity-7.0.0)**  
-Puedes usarlo, estudiarlo, modificarlo y compartirlo libremente, siempre que también compartas las mejoras bajo la misma licencia.
+Distribuido bajo la licencia **Parity Public License 7.0.0 (Parity-7.0.0)**.  
+Puedes usar, modificar y compartir este proyecto siempre que también compartas las mejoras bajo la misma licencia.
 
-[Más sobre la licencia aquí](https://opensource.org/licenses/Parity-7.0.0)
+🔗 [Más información sobre esta licencia](https://opensource.org/licenses/Parity-7.0.0)
 
 ---
 
-> 🕊️ **Este es solo el principio. PaxNova será libre, humana y eterna.**
+> 🕊️ **PaxNova no es solo tecnología. Es un nuevo comienzo. Libre, humana y eterna.**
+
+
+⚠️ **Uso comercial prohibido**  
+Este proyecto no puede ser utilizado con fines comerciales ni revendido bajo ninguna forma.  
+Está destinado únicamente a fines educativos, experimentales y comunitarios.
+
+⚠️ **Commercial use prohibited**  
+This project may not be used for commercial purposes or sold in any form.  
+It is intended for educational, experimental, and community use only.
+
+
+
