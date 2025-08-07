@@ -25,6 +25,15 @@ Puedes descargar todo el proyecto como un único archivo `.zip`:
 
 👉 [Haz clic aquí para descargar PaxNova como ZIP](https://github.com/kmejia90/PaxNova-Libre/archive/refs/heads/principal.zip)
 
+###  Mapa necesario para el módulo de localización
+
+El archivo `maps/cataluna-latest.osm.pbf` es esencial para que la función de mapas offline funcione correctamente en la GUI de PaxNova. Debido a su tamaño (más de 100 MB), no puede subirse directamente a GitHub.
+
+** Descárgalo desde aquí**:  
+[ Descargar mapa de Cataluña (235 MB) ](https://drive.google.com/file/d/1IJrgvZD0rwxFJ9nhvg4snkeB2o9O0-tg/view?usp=drive_link)
+
+Una vez descargado, coloca el archivo en la carpeta raíz del proyecto:
+
 ---
 
 ## ⚙️ Requisitos
