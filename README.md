@@ -1,3 +1,5 @@
+¿Tienes ideas, sugerencias o quieres colaborar con PaxNova?
+Escríbenos a: mejiakelvin103@gmail.com
 
 # 🌌 PaxNova Libre
 
