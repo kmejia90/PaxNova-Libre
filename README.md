@@ -8,7 +8,7 @@ Este proyecto demuestra que una IA puede evolucionar en entornos completamente o
 
 ## 📬 ¿Ideas, sugerencias o quieres colaborar?
 
-Contáctanos: ( mejiakelvin103@gmail.com )
+Contáctanos: ( Kelvinleodanmejiareyes@gmail.com )
 
 ---
 
