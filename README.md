@@ -1,5 +1,7 @@
 # 🌌 PaxNova Libre
 
+![tracker](https://counter.kmejia90.dev/pixel.gif?t=PaxNova&v=607&ts=2025-11-25)
+
 **PaxNova** es una inteligencia artificial experimental que **funciona sin internet**.  
 Escucha la radio mediante un cable jack, **recuerda**, **razona** y **responde con humanidad**.  
 Este proyecto demuestra que una IA puede evolucionar en entornos completamente offline.
